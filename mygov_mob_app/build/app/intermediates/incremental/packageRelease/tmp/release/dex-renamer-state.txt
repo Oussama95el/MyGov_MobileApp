@@ -1,0 +1,4 @@
+#Mon Mar 06 15:24:34 WEST 2023
+base.0=C\:\\Users\\adm\\Documents\\projects\\Mobile\\MyGov_MobileApp\\mygov_mob_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
